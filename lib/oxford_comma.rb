@@ -1,9 +1,14 @@
 def oxford_comma(array)
-result = array.join
-puts result
-final result =result.split(",")
-final result<< ("and")
+  if array.size == 1 
+   return true 
+  end   
+end   
+#     
+# result = array.join
+# puts result
+# final_result =result.split(",")
+# final_result<< ("and")
+# 
 
-end
-
-# << ("shovel") method
+# 
+# # << ("shovel") method
