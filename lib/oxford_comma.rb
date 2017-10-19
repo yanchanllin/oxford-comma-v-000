@@ -6,7 +6,6 @@ def oxford_comma(array)
 
    end
   end
-end
 #
 # result = array.join
 # puts result
